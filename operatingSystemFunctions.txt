@@ -1,0 +1,1 @@
+The operating system of chromebook runs Goolge's chrome OS. The most of settings like Wi-Fi, volume are on the lower right side of the screen. It updates automatically very fast.
